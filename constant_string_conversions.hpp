@@ -1,12 +1,12 @@
 /**
  * @file constant_string_conversions.hpp
  * @brief Conversion functions: to_string, from_string, std::string interop
- * @version 2.0
+ * @version 1.0.2
  */
 
 #pragma once
 
-#include "constant_string_algorithms.hpp"
+#include "constant_string_class.hpp"
 #include <string>
 #include <string_view>
 #include <cmath>
