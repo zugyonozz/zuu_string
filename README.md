@@ -1,8 +1,7 @@
 # fstring - Modern C++ Fixed-Capacity String Library
 
 [![C++20](https://img.shields.io/badge/C%2B%2B-20-blue.svg)](https://en.cppreference.com/w/cpp/20)
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-[![Version](https://img.shields.io/badge/version-1.0.0-orange.svg)](https://github.com/zugyonozz/fstring)
+[![Version](https://img.shields.io/badge/version-2.0.0-orange.svg)](https://github.com/zugyonozz/fstring)
 
 A modern, header-only C++20 library providing fixed-capacity strings with compile-time size checking, zero heap allocation, and full `constexpr` support.
 
